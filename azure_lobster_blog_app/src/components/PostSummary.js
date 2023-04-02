@@ -1,0 +1,1 @@
+// display summary of blog post on home page

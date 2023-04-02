@@ -1,0 +1,1 @@
+// display footer of the blog

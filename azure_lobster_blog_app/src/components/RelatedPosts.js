@@ -1,0 +1,1 @@
+// displays list of related blog posts at end of post (thumbnail image and title)

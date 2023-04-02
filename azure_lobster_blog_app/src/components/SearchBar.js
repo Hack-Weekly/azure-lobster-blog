@@ -1,0 +1,1 @@
+// display search bar for users to search for posts

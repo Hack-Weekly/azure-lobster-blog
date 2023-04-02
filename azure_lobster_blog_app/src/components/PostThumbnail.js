@@ -1,0 +1,1 @@
+// displays thumbnail image for blog post

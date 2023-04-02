@@ -1,0 +1,1 @@
+// displays form for users to subscribe to blog's newsletter - optional, as time permits

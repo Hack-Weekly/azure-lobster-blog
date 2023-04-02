@@ -1,0 +1,1 @@
+// display section for users to leave comment on blog posts

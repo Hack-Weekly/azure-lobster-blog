@@ -1,0 +1,1 @@
+// display content of blog post
