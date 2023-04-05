@@ -1,0 +1,1 @@
+// display information about the blog, or author og blog post

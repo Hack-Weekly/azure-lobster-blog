@@ -1,0 +1,1 @@
+// shared values - error messages, API endpoints, etc

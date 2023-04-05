@@ -1,0 +1,1 @@
+// display single blog post with header, content and optionally, image

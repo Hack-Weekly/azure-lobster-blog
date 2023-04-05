@@ -1,0 +1,1 @@
+// display header of the blog

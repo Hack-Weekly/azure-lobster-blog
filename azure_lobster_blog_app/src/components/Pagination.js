@@ -1,0 +1,1 @@
+//display pagination links to allow navigation through pages of blogs - optional, as time permits

@@ -1,0 +1,1 @@
+// display header of blog post (title, author, date)

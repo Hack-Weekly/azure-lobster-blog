@@ -1,0 +1,1 @@
+// landing page of blog app
